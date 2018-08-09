@@ -9,6 +9,12 @@
 
 ---
 
+@snap[east half-image]
+![People walking](assets/images/introsummary.png)
+@snapend
+
+---
+
 @snap[midpoint]
 ![Opsgility Logo](assets/images/opsgilitylogo.png?classes=small-logo)
 @snapend

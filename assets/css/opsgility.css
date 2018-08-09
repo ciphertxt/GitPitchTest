@@ -6,6 +6,10 @@ body {
     width: 57%;
 }
 
+.half-image img {
+    width: 50%;
+}
+
 .reveal h1 {
     font-size: 36px;
 }
