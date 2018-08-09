@@ -1,5 +1,5 @@
 @snap[north-west]
-![Opsgility Logo](assets/images/opsgilitylogo.png)
+![Opsgility Logo](assets/images/opsgilitylogo.png | width=57%)
 @snapend
 
 @snap[west]
