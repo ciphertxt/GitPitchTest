@@ -1,6 +1,8 @@
 ## Course Name
 
+@snap[west]
 ### Module Name
+@snapend
 
 +++
 
