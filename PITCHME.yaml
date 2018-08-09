@@ -3,9 +3,13 @@ layout : top-left
 
 # Look-and-Feel
 logo : assets/images/opsgilitylogo.png
+logo-position: top-right
 theme : night
 theme-override : assets/css/opsgility.css
 highlight : ir-black
+transition : fade
+background-color : #0B5B96
+footnote : "Copyright © Opsgility, LLC - Not for redistribution or redelivery"
 
 # Behavior
 transition : none
