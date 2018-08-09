@@ -1,4 +1,3 @@
-## 
 @snap[north-west]
 ![Opsgility Logo](assets/images/opsgilitylogo.png)
 @snapend
