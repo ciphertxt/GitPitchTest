@@ -1,6 +1,15 @@
 body {
     background-color : #0B5B96
 }
+
+h1 {
+    font-size: 36px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
 .reveal section img {
     border: 0;
     box-shadow: none;
