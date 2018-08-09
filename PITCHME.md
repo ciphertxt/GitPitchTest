@@ -1,5 +1,5 @@
 @snap[north-west]
-![Opsgility Logo](assets/images/opsgilitylogo.png | width=57%)
+![Opsgility Logo](assets/images/opsgilitylogo.png?classes=small-logo)
 @snapend
 
 @snap[west]
@@ -7,14 +7,8 @@
 <h2>Module Name</h2>
 @snapend
 
-+++
-
-## Hola!
-
 ---
 
-## Goodbye!
-
-+++
-
-## Adiós!
+@snap[midpoint]
+![Opsgility Logo](assets/images/opsgilitylogo.png?classes=small-logo)
+@snapend

@@ -2,9 +2,8 @@ body {
     background-color : #0B5B96;
 }
 
-.logosmall {
+.small-logo { 
     width: 57%;
-    height: 57%;
 }
 
 .reveal h1 {
