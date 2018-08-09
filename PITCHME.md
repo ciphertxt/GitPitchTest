@@ -1,7 +1,8 @@
-## Course Name
+## 
 
 @snap[west]
-### Module Name
+Course Name
+Module Name
 @snapend
 
 +++
