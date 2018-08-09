@@ -1,5 +1,5 @@
 @snap[north-west]
-![Opsgility Logo](assets/images/opsgilitylogo.png?classes=small-logo)
+<img src="assets/images/opsgilitylogo.png" class="small-logo" />
 @snapend
 
 @snap[west]
