@@ -1,8 +1,8 @@
 # Layout
-layout : center-right
+layout : top-left
 
 # Look-and-Feel
-logo : assets/images/logo.png
+logo : assets/images/opsgilitylogo.png
 theme : night
 theme-override : assets/css/opsgility.css
 highlight : ir-black
