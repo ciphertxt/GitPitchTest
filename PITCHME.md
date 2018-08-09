@@ -1,5 +1,13 @@
-## Hello, World!
+## Hello!
+
++++
+
+## Hola!
 
 ---
 
-## The End :)
+## Goodbye!
+
++++
+
+## Adiós!
